@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.webm
+*.mp4
+*.wav
+installation.json
+config.json
+*.log
+.DS_Store
